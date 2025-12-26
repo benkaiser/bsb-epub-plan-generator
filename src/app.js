@@ -204,13 +204,27 @@ const App = () => {
             const spineItems = [];
             const navPoints = [];
 
+            // Pre-fetch all unique chapters in parallel
+            const uniqueFiles = [...new Set(plan.flatMap(day => day.chapters.map(ch => ch.file)))];
+            const chapterCache = new Map();
+            const CONCURRENCY = 100;
+
+            for (let i = 0; i < uniqueFiles.length; i += CONCURRENCY) {
+                const chunk = uniqueFiles.slice(i, i + CONCURRENCY);
+                setStatus(`Pre-fetching chapters ${i + 1} to ${Math.min(i + CONCURRENCY, uniqueFiles.length)} of ${uniqueFiles.length}...`);
+                await Promise.all(chunk.map(async (file) => {
+                    const content = await fetchChapterContent(file);
+                    chapterCache.set(file, content);
+                }));
+            }
+
             // Generate daily files
             for (let i = 0; i < plan.length; i++) {
                 const day = plan[i];
                 const dateStr = day.date ? day.date.toLocaleDateString() : '';
                 const titleStr = day.date ? `Day ${i + 1} - ${dateStr}` : `Day ${i + 1}`;
                 const fileName = `day_${i + 1}.xhtml`;
-                setStatus(`Processing Day ${i + 1} of ${plan.length}...`);
+                setStatus(`Assembling Day ${i + 1} of ${plan.length}...`);
 
                 let bodyContent = `<h1>${titleStr}</h1>`;
 
@@ -223,7 +237,7 @@ const App = () => {
                 </div>`;
 
                 for (const ch of day.chapters) {
-                    const chContent = await fetchChapterContent(ch.file);
+                    const chContent = chapterCache.get(ch.file);
                     bodyContent += `<div class="chapter-container">
                         <h2>${ch.book} ${ch.chapter}</h2>
                         ${chContent}
