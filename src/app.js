@@ -11,8 +11,10 @@ const App = () => {
     const [selectedBooks, setSelectedBooks] = useState(BIBLE_BOOKS.map(b => b.name));
     const [otChaptersPerDay, setOtChaptersPerDay] = useState(3);
     const [ntChaptersPerDay, setNtChaptersPerDay] = useState(1);
-    const [psalmsPerDay, setPsalmsPerDay] = useState(0);
-    const [proverbsPerDay, setProverbsPerDay] = useState(0);
+    const [psalmsPerDay, setPsalmsPerDay] = useState(1);
+    const [proverbsPerDay, setProverbsPerDay] = useState(1);
+    const [splitPsalms, setSplitPsalms] = useState(false);
+    const [splitProverbs, setSplitProverbs] = useState(false);
     const [planOrder, setPlanOrder] = useState('mixed');
     const [padWithRepeats, setPadWithRepeats] = useState(false);
     const [useDates, setUseDates] = useState(true);
@@ -64,9 +66,9 @@ const App = () => {
         otBooks.forEach(book => {
             for (let i = 1; i <= book.chapters; i++) {
                 const chapterObj = { book: book.name, chapter: i, file: book.startFile + i - 1 };
-                if (book.name === 'Psalms' && psalmsPerDay > 0) {
+                if (book.name === 'Psalms' && splitPsalms) {
                     psalmChapters.push(chapterObj);
-                } else if (book.name === 'Proverbs' && proverbsPerDay > 0) {
+                } else if (book.name === 'Proverbs' && splitProverbs) {
                     proverbChapters.push(chapterObj);
                 } else {
                     otChapters.push(chapterObj);
@@ -170,7 +172,7 @@ const App = () => {
         }
 
         return days;
-    }, [selectionMode, selectedBooks, otChaptersPerDay, ntChaptersPerDay, psalmsPerDay, proverbsPerDay, planOrder, useDates, startDate, readingDays, padWithRepeats]);
+    }, [selectionMode, selectedBooks, otChaptersPerDay, ntChaptersPerDay, psalmsPerDay, proverbsPerDay, splitPsalms, splitProverbs, planOrder, useDates, startDate, readingDays, padWithRepeats]);
 
     const generateEpub = async () => {
         setIsGenerating(true);
@@ -376,12 +378,25 @@ ${bodyContent}
                     <label>NT Chapters per day:
                         <input type="number" value=${ntChaptersPerDay} onInput=${(e) => setNtChaptersPerDay(parseInt(e.target.value) || 0)} min="0" />
                     </label>
-                    <label>Psalms per day:
-                        <input type="number" value=${psalmsPerDay} onInput=${(e) => setPsalmsPerDay(parseInt(e.target.value) || 0)} min="0" />
-                    </label>
-                    <label>Proverbs per day:
-                        <input type="number" value=${proverbsPerDay} onInput=${(e) => setProverbsPerDay(parseInt(e.target.value) || 0)} min="0" />
-                    </label>
+                    ${splitPsalms && html`
+                        <label>Psalms per day:
+                            <input type="number" value=${psalmsPerDay} onInput=${(e) => setPsalmsPerDay(parseInt(e.target.value) || 0)} min="1" />
+                        </label>
+                    `}
+                    ${splitProverbs && html`
+                        <label>Proverbs per day:
+                            <input type="number" value=${proverbsPerDay} onInput=${(e) => setProverbsPerDay(parseInt(e.target.value) || 0)} min="1" />
+                        </label>
+                    `}
+                </div>
+
+                <div style="margin-top: 1rem; display: flex; gap: 1rem;">
+                    <button type="button" class="${splitPsalms ? '' : 'outline'}" onClick=${() => setSplitPsalms(!splitPsalms)}>
+                        ${splitPsalms ? '✓ Psalms Split Out' : 'Split out Psalms'}
+                    </button>
+                    <button type="button" class="${splitProverbs ? '' : 'outline'}" onClick=${() => setSplitProverbs(!splitProverbs)}>
+                        ${splitProverbs ? '✓ Proverbs Split Out' : 'Split out Proverbs'}
+                    </button>
                 </div>
             </section>
 
