@@ -367,47 +367,83 @@ ${bodyContent}
         setIsGenerating(true);
         setStatus('Starting Audiobook generation...');
         try {
-            const CONCURRENCY = 10;
-            let completedDays = 0;
             const padLength = plan.length.toString().length;
+            const CHUNK_SIZE = 20; // Max parallel download connections
 
-            const processDay = async (day, index) => {
-                const dayNum = (index + 1).toString().padStart(padLength, '0');
+            const allChapters = [];
+            plan.forEach((day, dayIdx) => {
+                day.chapters.forEach((ch, chIdx) => {
+                    allChapters.push({ dayIdx, chIdx, file: ch.file, book: ch.book, chapter: ch.chapter });
+                });
+            });
 
-                let datePart = '';
-                if (day.date) {
-                    const y = day.date.getFullYear();
-                    const m = (day.date.getMonth() + 1).toString().padStart(2, '0');
-                    const d = day.date.getDate().toString().padStart(2, '0');
-                    datePart = ` - ${y}-${m}-${d}`;
+            const dayChapterBlobs = plan.map(day => new Array(day.chapters.length));
+            const dayChaptersFinished = new Array(plan.length).fill(0);
+            let chapterIdx = 0;
+            let writeIndex = 0;
+            let error = null;
+
+            const downloadWorker = async () => {
+                while (chapterIdx < allChapters.length && !error) {
+                    const currentChapter = allChapters[chapterIdx];
+                    // Limit lookahead to 20 days ahead of the current writer to save memory
+                    if (currentChapter.dayIdx - writeIndex > 20) {
+                        await new Promise(r => setTimeout(r, 500));
+                        continue;
+                    }
+
+                    const { dayIdx, chIdx, file, book, chapter } = allChapters[chapterIdx++];
+                    try {
+                        const response = await fetch(`audio_processed/${file}.mp3`);
+                        if (!response.ok) throw new Error(`Failed to fetch audio for ${book} ${chapter}`);
+                        const blob = await response.blob();
+                        dayChapterBlobs[dayIdx][chIdx] = blob;
+                        dayChaptersFinished[dayIdx]++;
+                    } catch (e) {
+                        error = e;
+                    }
                 }
+            };
 
-                // Create a summary of chapters for the filename
-                const chaptersSummary = day.chapters.map(ch => `${ch.book} ${ch.chapter}`).join(', ');
-                const safeSummary = chaptersSummary.replace(/[/\\?%*:|"<>]/g, '-');
-                const fileName = `Day${dayNum}${datePart} - ${safeSummary}.mp3`;
+            // Start the parallel download workers
+            const workers = Array.from({ length: CHUNK_SIZE }, downloadWorker);
 
-                const blobs = await Promise.all(day.chapters.map(async (ch) => {
-                    const response = await fetch(`audio_processed/${ch.file}.mp3`);
-                    if (!response.ok) throw new Error(`Failed to fetch audio for ${ch.book} ${ch.chapter}`);
-                    return await response.blob();
-                }));
+            // Serial write loop
+            for (let i = 0; i < plan.length; i++) {
+                // Wait for all chapters of this day to be downloaded
+                while (dayChaptersFinished[i] < plan[i].chapters.length && !error) {
+                    await new Promise(r => setTimeout(r, 100));
+                }
+                if (error) throw error;
 
-                const concatenatedBlob = new Blob(blobs, { type: 'audio/mpeg' });
+                const day = plan[i];
+                const dayNum = (i + 1).toString().padStart(padLength, '0');
+
+                const prefix = `Day_${dayNum}_`;
+                const ext = `.mp3`;
+                const maxSummaryLength = 28 - prefix.length - ext.length;
+
+                const chaptersSummary = day.chapters.map(ch => {
+                    const shortBook = ch.book.substring(0, 3);
+                    return `${shortBook}${ch.chapter}`;
+                }).join('_');
+
+                const safeSummary = chaptersSummary.replace(/[^a-z0-9_]/gi, '').substring(0, maxSummaryLength);
+                const fileName = `${prefix}${safeSummary}${ext}`;
+
+                setStatus(`Generating Audiobook: ${i + 1} / ${plan.length} days...`);
+
+                const concatenatedBlob = new Blob(dayChapterBlobs[i], { type: 'audio/mpeg' });
                 const fileHandle = await dirHandle.getFileHandle(fileName, { create: true });
-                const writable = await fileHandle.createWritable();
+                const writable = await fileHandle.createWritable({ keepExistingData: false });
                 await writable.write(concatenatedBlob);
                 await writable.close();
 
-                completedDays++;
-                setStatus(`Generated ${completedDays} of ${plan.length} days...`);
-            };
-
-            for (let i = 0; i < plan.length; i += CONCURRENCY) {
-                const chunk = plan.slice(i, i + CONCURRENCY);
-                await Promise.all(chunk.map((day, index) => processDay(day, i + index)));
+                dayChapterBlobs[i] = null; // Free memory
+                writeIndex = i;
             }
 
+            await Promise.all(workers);
             setStatus('Audiobook generated successfully!');
         } catch (err) {
             console.error(err);
