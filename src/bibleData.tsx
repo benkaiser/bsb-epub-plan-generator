@@ -1,4 +1,10 @@
-export const bibleData = [
+export interface BibleBook {
+  name: string;
+  startFile: number;
+  chapters: number;
+}
+
+export const bibleData: BibleBook[] = [
   { "name": "Genesis", "startFile": 1, "chapters": 50 },
   { "name": "Exodus", "startFile": 51, "chapters": 40 },
   { "name": "Leviticus", "startFile": 91, "chapters": 27 },

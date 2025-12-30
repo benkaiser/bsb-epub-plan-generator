@@ -4,8 +4,8 @@
   "description": "Bible plan generator for BSB EPUB",
   "main": "index.js",
   "scripts": {
-    "build": "esbuild src/app.js --bundle --outfile=dist/app.js --minify",
-    "dev": "esbuild src/app.js --bundle --outfile=dist/app.js --watch"
+    "build": "esbuild src/app.tsx --bundle --outfile=dist/app.js --minify",
+    "dev": "esbuild src/app.tsx --bundle --outfile=dist/app.js --watch"
   },
   "dependencies": {
     "htm": "^3.1.1",
