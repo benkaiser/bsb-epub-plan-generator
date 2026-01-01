@@ -32,6 +32,7 @@ interface AudioStats {
 type SelectionMode = 'all' | 'custom';
 type PlanOrder = 'mixed' | 'sequential';
 type Preset = 'all' | 'none' | 'gospels' | 'pentateuch' | 'history' | 'wisdom' | 'major-prophets' | 'minor-prophets' | 'paul' | 'general-epistles';
+type BibleVersion = 'bsb' | 'kjv';
 
 interface ChapterWithIndex {
     dayIdx: number;
@@ -42,6 +43,7 @@ interface ChapterWithIndex {
 }
 
 const App = () => {
+    const [bibleVersion, setBibleVersion] = useState<BibleVersion>('bsb');
     const [selectionMode, setSelectionMode] = useState<SelectionMode>('all');
     const [selectedBooks, setSelectedBooks] = useState<string[]>(BIBLE_BOOKS.map(b => b.name));
     const [otChaptersPerDay, setOtChaptersPerDay] = useState<number>(3);
@@ -351,6 +353,11 @@ ${bodyContent}
 
             // Generate credits page
             const creditsFileName = 'credits.xhtml';
+            const versionName = bibleVersion === 'bsb' ? 'Berean Standard Bible (BSB)' : 'King James Version (KJV)';
+            const licenseInfo = bibleVersion === 'bsb'
+                ? '<p><strong>Berean Standard Bible (BSB):</strong> The Berean Standard Bible is public domain. <a href="https://berean.bible/">https://berean.bible/</a></p>'
+                : '<p><strong>King James Version (KJV):</strong> The King James Version is in the public domain in most of the world.</p>';
+
             const creditsContent = `<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -361,15 +368,13 @@ ${bodyContent}
 </head>
 <body>
 <h1>Credits</h1>
-<p>This Bible reading plan was generated using the <strong>BSB Bible Plan Generator</strong>.</p>
+<p>This Bible reading plan was generated using the <strong>Bible Reading Plan Generator</strong>.</p>
 <p>
     <strong>Source Code:</strong> <a href="https://github.com/benkaiser/bsb-plan-generator">https://github.com/benkaiser/bsb-plan-generator</a><br/>
     <strong>Website:</strong> <a href="https://benkaiser.github.io/bsb-plan-generator/">https://benkaiser.github.io/bsb-plan-generator/</a>
 </p>
 <h2>License Information</h2>
-<p>
-    <strong>Berean Standard Bible (BSB):</strong> The Berean Standard Bible is public domain. <a href="https://berean.bible/">https://berean.bible/</a>
-</p>
+${licenseInfo}
 </body>
 </html>`;
             text.file(creditsFileName, creditsContent);
@@ -560,40 +565,46 @@ License Information:
     };
 
     const fetchChapterContent = async (fileNum: number): Promise<string> => {
-        const url = `bsb_unzipped/bsb - final - 7-18-21/OEBPS/Text/${fileNum}.htm`;
+        const basePath = bibleVersion === 'bsb'
+            ? 'bsb_unzipped/bsb - final - 7-18-21/OEBPS/Text'
+            : 'kjv_unzipped/kjv/OEBPS/Text';
+        const url = `${basePath}/${fileNum}.htm`;
         const response = await fetch(url);
         const htmlText = await response.text();
-        const parser = new DOMParser();
-        const doc = parser.parseFromString(htmlText, 'text/html');
 
-        // Remove navigation and headers
-        const toRemove = ['#topheading', '.bsbheading', '.cross', '.nav', 'h1'];
-        toRemove.forEach(selector => {
-            const elements = doc.querySelectorAll(selector);
-            elements.forEach(el => el.remove());
-        });
-
-        // Serialize the body's children to XHTML to ensure all tags are closed
-        const serializer = new XMLSerializer();
-        let xhtmlFragment = "";
-        for (const child of doc.body.childNodes) {
-            xhtmlFragment += serializer.serializeToString(child);
-        }
-        return xhtmlFragment;
+        // Extract body content - assumes preprocessing has already cleaned the files
+        const bodyMatch = htmlText.match(/<body[^>]*>([\s\S]*)<\/body>/i);
+        return bodyMatch ? bodyMatch[1] : '';
     };
 
     return (
         <div>
             <header style={{ textAlign: 'center', marginBottom: '2rem' }}>
-                <h1>BSB Bible Plan Generator</h1>
-                <p>Generate custom EPUB reading plans and corresponding daily Audiobooks.</p>
-                <p style={{ maxWidth: '600px', margin: '0 auto', fontSize: '0.9rem', color: 'var(--muted-color)' }}>
-                    The <strong>Berean Standard Bible (BSB)</strong> was chosen for this project because it is a high-quality, modern English translation that has been dedicated to the public domain.
-                </p>
+                <h1>Bible Reading Plan Generator</h1>
+                <p>Generate custom EPUB reading plans and daily Audiobooks from the Bible.</p>
             </header>
 
             <section>
-                <h2>1. Reading Selection</h2>
+                <h2>1. Bible Version</h2>
+                <div class="grid">
+                    <label>
+                        <input type="radio" name="bibleVersion" value="bsb" checked={bibleVersion === 'bsb'} onChange={() => setBibleVersion('bsb')} />
+                        BSB (Berean Standard Bible)
+                    </label>
+                    <label>
+                        <input type="radio" name="bibleVersion" value="kjv" checked={bibleVersion === 'kjv'} onChange={() => setBibleVersion('kjv')} />
+                        KJV (King James Version)
+                    </label>
+                </div>
+                <p style={{ marginTop: '1rem', fontSize: '0.9rem', color: 'var(--muted-color)' }}>
+                    {bibleVersion === 'bsb'
+                        ? 'The Berean Standard Bible is a high-quality, modern English translation that has been dedicated to the public domain.'
+                        : 'The King James Version is a classic English translation widely used for centuries.'}
+                </p>
+            </section>
+
+            <section>
+                <h2>2. Reading Selection</h2>
                 <div class="grid">
                     <label>
                         <input type="radio" name="selectionMode" value="all" checked={selectionMode === 'all'} onChange={() => setSelectionMode('all')} />
@@ -662,7 +673,7 @@ License Information:
             </section>
 
             <section>
-                <h2>2. Plan Style</h2>
+                <h2>3. Plan Style</h2>
                 <div class="grid" style={{ alignItems: 'end' }}>
                     <label>Order:
                         <select value={planOrder} onChange={(e: JSX.TargetedEvent<HTMLSelectElement>) => setPlanOrder(e.currentTarget.value as PlanOrder)}>
@@ -712,7 +723,7 @@ License Information:
             </section>
 
             <section>
-                <h2>3. Generate Plan</h2>
+                <h2>4. Generate Plan</h2>
                 <p>{plan.length} days total</p>
                 <div style={{ maxHeight: '400px', overflowY: 'auto', border: '1px solid var(--muted-border-color)', padding: '1rem', marginBottom: '1rem', borderRadius: 'var(--border-radius)' }}>
                     {plan.slice(0, 5).map((day, i) => (
@@ -746,8 +757,8 @@ License Information:
                         <button onClick={generateEpub} disabled={isGenerating || plan.length === 0}>
                             {isGenerating ? 'Generating...' : 'Download EPUB'}
                         </button>
-                        <button onClick={generateAudiobook} disabled={isGenerating || plan.length === 0} class="secondary">
-                            {isGenerating ? 'Generating...' : 'Generate Audiobook'}
+                        <button onClick={generateAudiobook} disabled={isGenerating || plan.length === 0 || bibleVersion !== 'bsb'} class="secondary">
+                            {isGenerating ? 'Generating...' : 'Generate Audiobook (BSB only)'}
                         </button>
                     </div>
 
@@ -755,6 +766,7 @@ License Information:
                         <div style={{ background: 'var(--card-section-background-color)', padding: '1rem', borderRadius: 'var(--border-radius)', border: '1px solid var(--muted-border-color)' }}>
                             <p style={{ margin: 0 }}><strong>Audiobook Info:</strong></p>
                             <ul style={{ margin: '0.5rem 0 0 0', paddingLeft: '1.5rem', fontSize: '0.9rem' }}>
+                                <li>Audio is only available for BSB (Berean Standard Bible).</li>
                                 <li>Estimated: {audioStats.downloadSizeMB}MB download, {audioStats.totalSizeMB}MB total on disk.</li>
                                 <li>Requires a folder selection to save daily MP3 files.</li>
                                 <li style={{ color: 'var(--secondary)' }}>Note: Audiobook generation is only supported in <strong>Chrome</strong> and <strong>Edge</strong>.</li>

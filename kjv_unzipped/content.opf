@@ -1,0 +1,2412 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Various">Various</dc:creator>
+<dc:rights>Copyright 2014 Biblos.com</dc:rights>
+    <meta name="calibre:timestamp" content="2017-06-20T20:45:22.735000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <meta name="calibre:title_sort" content="King James Bible"/>
+    <dc:contributor opf:role="bkp">calibre (1.36.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">73ba2e36-410a-462f-ad87-a63b231f7369</dc:identifier>
+    <dc:title>King James Bible</dc:title>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+<dc:language>en</dc:language>
+<dc:identifier opf:scheme="calibre">73ba2e36-410a-462f-ad87-a63b231f7369</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="kjv/OEBPS/Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="kjv/OEBPS/Text/0.htm" id="0" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1.htm" id="1" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/10.htm" id="10" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/100.htm" id="100" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1000.htm" id="1000" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1001.htm" id="1001" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1002.htm" id="1002" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1003.htm" id="1003" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1004.htm" id="1004" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1005.htm" id="1005" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1006.htm" id="1006" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1007.htm" id="1007" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1008.htm" id="1008" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1009.htm" id="1009" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/101.htm" id="101" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1010.htm" id="1010" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1011.htm" id="1011" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1012.htm" id="1012" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1013.htm" id="1013" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1014.htm" id="1014" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1015.htm" id="1015" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1016.htm" id="1016" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1017.htm" id="1017" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1018.htm" id="1018" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1019.htm" id="1019" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/102.htm" id="102" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1020.htm" id="1020" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1021.htm" id="1021" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1022.htm" id="1022" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1023.htm" id="1023" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1024.htm" id="1024" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1025.htm" id="1025" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1026.htm" id="1026" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1027.htm" id="1027" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1028.htm" id="1028" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1029.htm" id="1029" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/103.htm" id="103" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1030.htm" id="1030" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1031.htm" id="1031" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1032.htm" id="1032" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1033.htm" id="1033" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1034.htm" id="1034" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1035.htm" id="1035" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1036.htm" id="1036" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1037.htm" id="1037" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1038.htm" id="1038" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1039.htm" id="1039" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/104.htm" id="104" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1040.htm" id="1040" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1041.htm" id="1041" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1042.htm" id="1042" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1043.htm" id="1043" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1044.htm" id="1044" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1045.htm" id="1045" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1046.htm" id="1046" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1047.htm" id="1047" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1048.htm" id="1048" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1049.htm" id="1049" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/105.htm" id="105" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1050.htm" id="1050" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1051.htm" id="1051" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1052.htm" id="1052" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1053.htm" id="1053" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1054.htm" id="1054" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1055.htm" id="1055" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1056.htm" id="1056" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1057.htm" id="1057" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1058.htm" id="1058" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1059.htm" id="1059" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/106.htm" id="106" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1060.htm" id="1060" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1061.htm" id="1061" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1062.htm" id="1062" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1063.htm" id="1063" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1064.htm" id="1064" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1065.htm" id="1065" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1066.htm" id="1066" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1067.htm" id="1067" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1068.htm" id="1068" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1069.htm" id="1069" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/107.htm" id="107" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1070.htm" id="1070" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1071.htm" id="1071" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1072.htm" id="1072" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1073.htm" id="1073" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1074.htm" id="1074" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1075.htm" id="1075" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1076.htm" id="1076" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1077.htm" id="1077" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1078.htm" id="1078" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1079.htm" id="1079" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/108.htm" id="108" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1080.htm" id="1080" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1081.htm" id="1081" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1082.htm" id="1082" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1083.htm" id="1083" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1084.htm" id="1084" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1085.htm" id="1085" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1086.htm" id="1086" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1087.htm" id="1087" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1088.htm" id="1088" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1089.htm" id="1089" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/109.htm" id="109" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1090.htm" id="1090" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1091.htm" id="1091" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1092.htm" id="1092" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1093.htm" id="1093" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1094.htm" id="1094" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1095.htm" id="1095" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1096.htm" id="1096" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1097.htm" id="1097" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1098.htm" id="1098" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1099.htm" id="1099" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/11.htm" id="11" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/110.htm" id="110" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1100.htm" id="1100" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1101.htm" id="1101" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1102.htm" id="1102" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1103.htm" id="1103" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1104.htm" id="1104" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1105.htm" id="1105" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1106.htm" id="1106" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1107.htm" id="1107" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1108.htm" id="1108" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1109.htm" id="1109" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/111.htm" id="111" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1110.htm" id="1110" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1111.htm" id="1111" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1112.htm" id="1112" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1113.htm" id="1113" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1114.htm" id="1114" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1115.htm" id="1115" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1116.htm" id="1116" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1117.htm" id="1117" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1118.htm" id="1118" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1119.htm" id="1119" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/112.htm" id="112" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1120.htm" id="1120" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1121.htm" id="1121" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1122.htm" id="1122" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1123.htm" id="1123" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1124.htm" id="1124" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1125.htm" id="1125" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1126.htm" id="1126" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1127.htm" id="1127" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1128.htm" id="1128" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1129.htm" id="1129" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/113.htm" id="113" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1130.htm" id="1130" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1131.htm" id="1131" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1132.htm" id="1132" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1133.htm" id="1133" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1134.htm" id="1134" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1135.htm" id="1135" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1136.htm" id="1136" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1137.htm" id="1137" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1138.htm" id="1138" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1139.htm" id="1139" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/114.htm" id="114" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1140.htm" id="1140" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1141.htm" id="1141" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1142.htm" id="1142" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1143.htm" id="1143" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1144.htm" id="1144" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1145.htm" id="1145" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1146.htm" id="1146" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1147.htm" id="1147" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1148.htm" id="1148" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1149.htm" id="1149" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/115.htm" id="115" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1150.htm" id="1150" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1151.htm" id="1151" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1152.htm" id="1152" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1153.htm" id="1153" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1154.htm" id="1154" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1155.htm" id="1155" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1156.htm" id="1156" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1157.htm" id="1157" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1158.htm" id="1158" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1159.htm" id="1159" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/116.htm" id="116" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1160.htm" id="1160" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1161.htm" id="1161" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1162.htm" id="1162" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1163.htm" id="1163" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1164.htm" id="1164" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1165.htm" id="1165" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1166.htm" id="1166" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1167.htm" id="1167" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1168.htm" id="1168" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1169.htm" id="1169" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/117.htm" id="117" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1170.htm" id="1170" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1171.htm" id="1171" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1172.htm" id="1172" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1173.htm" id="1173" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1174.htm" id="1174" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1175.htm" id="1175" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1176.htm" id="1176" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1177.htm" id="1177" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1178.htm" id="1178" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1179.htm" id="1179" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/118.htm" id="118" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1180.htm" id="1180" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1181.htm" id="1181" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1182.htm" id="1182" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1183.htm" id="1183" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1184.htm" id="1184" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1185.htm" id="1185" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1186.htm" id="1186" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1187.htm" id="1187" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1188.htm" id="1188" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/1189.htm" id="1189" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/119.htm" id="119" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/12.htm" id="12" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/120.htm" id="120" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/121.htm" id="121" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/122.htm" id="122" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/123.htm" id="123" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/124.htm" id="124" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/125.htm" id="125" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/126.htm" id="126" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/127.htm" id="127" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/128.htm" id="128" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/129.htm" id="129" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/13.htm" id="13" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/130.htm" id="130" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/131.htm" id="131" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/132.htm" id="132" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/133.htm" id="133" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/134.htm" id="134" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/135.htm" id="135" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/136.htm" id="136" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/137.htm" id="137" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/138.htm" id="138" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/139.htm" id="139" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/14.htm" id="14" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/140.htm" id="140" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/141.htm" id="141" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/142.htm" id="142" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/143.htm" id="143" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/144.htm" id="144" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/145.htm" id="145" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/146.htm" id="146" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/147.htm" id="147" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/148.htm" id="148" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/149.htm" id="149" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/15.htm" id="15" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/150.htm" id="150" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/151.htm" id="151" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/152.htm" id="152" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/153.htm" id="153" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/154.htm" id="154" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/155.htm" id="155" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/156.htm" id="156" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/157.htm" id="157" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/158.htm" id="158" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/159.htm" id="159" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/16.htm" id="16" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/160.htm" id="160" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/161.htm" id="161" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/162.htm" id="162" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/163.htm" id="163" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/164.htm" id="164" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/165.htm" id="165" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/166.htm" id="166" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/167.htm" id="167" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/168.htm" id="168" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/169.htm" id="169" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/17.htm" id="17" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/170.htm" id="170" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/171.htm" id="171" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/172.htm" id="172" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/173.htm" id="173" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/174.htm" id="174" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/175.htm" id="175" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/176.htm" id="176" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/177.htm" id="177" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/178.htm" id="178" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/179.htm" id="179" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/18.htm" id="18" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/180.htm" id="180" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/181.htm" id="181" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/182.htm" id="182" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/183.htm" id="183" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/184.htm" id="184" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/185.htm" id="185" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/186.htm" id="186" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/187.htm" id="187" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/188.htm" id="188" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/189.htm" id="189" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/19.htm" id="19" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/190.htm" id="190" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/191.htm" id="191" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/192.htm" id="192" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/193.htm" id="193" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/194.htm" id="194" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/195.htm" id="195" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/196.htm" id="196" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/197.htm" id="197" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/198.htm" id="198" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/199.htm" id="199" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/2.htm" id="2" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/20.htm" id="20" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/200.htm" id="200" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/201.htm" id="201" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/202.htm" id="202" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/203.htm" id="203" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/204.htm" id="204" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/205.htm" id="205" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/206.htm" id="206" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/207.htm" id="207" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/208.htm" id="208" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/209.htm" id="209" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/21.htm" id="21" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/210.htm" id="210" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/211.htm" id="211" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/212.htm" id="212" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/213.htm" id="213" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/214.htm" id="214" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/215.htm" id="215" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/216.htm" id="216" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/217.htm" id="217" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/218.htm" id="218" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/219.htm" id="219" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/22.htm" id="22" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/220.htm" id="220" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/221.htm" id="221" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/222.htm" id="222" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/223.htm" id="223" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/224.htm" id="224" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/225.htm" id="225" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/226.htm" id="226" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/227.htm" id="227" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/228.htm" id="228" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/229.htm" id="229" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/23.htm" id="23" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/230.htm" id="230" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/231.htm" id="231" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/232.htm" id="232" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/233.htm" id="233" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/234.htm" id="234" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/235.htm" id="235" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/236.htm" id="236" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/237.htm" id="237" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/238.htm" id="238" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/239.htm" id="239" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/24.htm" id="24" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/240.htm" id="240" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/241.htm" id="241" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/242.htm" id="242" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/243.htm" id="243" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/244.htm" id="244" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/245.htm" id="245" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/246.htm" id="246" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/247.htm" id="247" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/248.htm" id="248" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/249.htm" id="249" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/25.htm" id="25" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/250.htm" id="250" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/251.htm" id="251" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/252.htm" id="252" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/253.htm" id="253" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/254.htm" id="254" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/255.htm" id="255" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/256.htm" id="256" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/257.htm" id="257" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/258.htm" id="258" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/259.htm" id="259" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/26.htm" id="26" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/260.htm" id="260" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/261.htm" id="261" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/262.htm" id="262" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/263.htm" id="263" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/264.htm" id="264" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/265.htm" id="265" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/266.htm" id="266" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/267.htm" id="267" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/268.htm" id="268" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/269.htm" id="269" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/27.htm" id="27" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/270.htm" id="270" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/271.htm" id="271" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/272.htm" id="272" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/273.htm" id="273" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/274.htm" id="274" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/275.htm" id="275" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/276.htm" id="276" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/277.htm" id="277" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/278.htm" id="278" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/279.htm" id="279" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/28.htm" id="28" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/280.htm" id="280" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/281.htm" id="281" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/282.htm" id="282" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/283.htm" id="283" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/284.htm" id="284" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/285.htm" id="285" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/286.htm" id="286" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/287.htm" id="287" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/288.htm" id="288" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/289.htm" id="289" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/29.htm" id="29" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/290.htm" id="290" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/291.htm" id="291" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/292.htm" id="292" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/293.htm" id="293" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/294.htm" id="294" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/295.htm" id="295" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/296.htm" id="296" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/297.htm" id="297" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/298.htm" id="298" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/299.htm" id="299" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/3.htm" id="3" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/30.htm" id="30" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/300.htm" id="300" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/301.htm" id="301" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/302.htm" id="302" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/303.htm" id="303" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/304.htm" id="304" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/305.htm" id="305" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/306.htm" id="306" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/307.htm" id="307" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/308.htm" id="308" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/309.htm" id="309" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/31.htm" id="31" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/310.htm" id="310" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/311.htm" id="311" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/312.htm" id="312" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/313.htm" id="313" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/314.htm" id="314" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/315.htm" id="315" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/316.htm" id="316" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/317.htm" id="317" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/318.htm" id="318" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/319.htm" id="319" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/32.htm" id="32" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/320.htm" id="320" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/321.htm" id="321" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/322.htm" id="322" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/323.htm" id="323" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/324.htm" id="324" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/325.htm" id="325" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/326.htm" id="326" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/327.htm" id="327" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/328.htm" id="328" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/329.htm" id="329" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/33.htm" id="33" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/330.htm" id="330" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/331.htm" id="331" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/332.htm" id="332" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/333.htm" id="333" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/334.htm" id="334" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/335.htm" id="335" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/336.htm" id="336" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/337.htm" id="337" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/338.htm" id="338" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/339.htm" id="339" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/34.htm" id="34" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/340.htm" id="340" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/341.htm" id="341" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/342.htm" id="342" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/343.htm" id="343" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/344.htm" id="344" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/345.htm" id="345" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/346.htm" id="346" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/347.htm" id="347" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/348.htm" id="348" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/349.htm" id="349" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/35.htm" id="35" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/350.htm" id="350" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/351.htm" id="351" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/352.htm" id="352" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/353.htm" id="353" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/354.htm" id="354" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/355.htm" id="355" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/356.htm" id="356" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/357.htm" id="357" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/358.htm" id="358" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/359.htm" id="359" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/36.htm" id="36" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/360.htm" id="360" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/361.htm" id="361" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/362.htm" id="362" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/363.htm" id="363" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/364.htm" id="364" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/365.htm" id="365" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/366.htm" id="366" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/367.htm" id="367" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/368.htm" id="368" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/369.htm" id="369" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/37.htm" id="37" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/370.htm" id="370" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/371.htm" id="371" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/372.htm" id="372" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/373.htm" id="373" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/374.htm" id="374" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/375.htm" id="375" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/376.htm" id="376" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/377.htm" id="377" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/378.htm" id="378" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/379.htm" id="379" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/38.htm" id="38" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/380.htm" id="380" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/381.htm" id="381" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/382.htm" id="382" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/383.htm" id="383" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/384.htm" id="384" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/385.htm" id="385" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/386.htm" id="386" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/387.htm" id="387" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/388.htm" id="388" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/389.htm" id="389" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/39.htm" id="39" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/390.htm" id="390" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/391.htm" id="391" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/392.htm" id="392" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/393.htm" id="393" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/394.htm" id="394" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/395.htm" id="395" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/396.htm" id="396" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/397.htm" id="397" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/398.htm" id="398" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/399.htm" id="399" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/4.htm" id="4" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/40.htm" id="40" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/400.htm" id="400" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/401.htm" id="401" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/402.htm" id="402" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/403.htm" id="403" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/404.htm" id="404" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/405.htm" id="405" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/406.htm" id="406" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/407.htm" id="407" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/408.htm" id="408" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/409.htm" id="409" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/41.htm" id="41" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/410.htm" id="410" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/411.htm" id="411" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/412.htm" id="412" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/413.htm" id="413" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/414.htm" id="414" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/415.htm" id="415" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/416.htm" id="416" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/417.htm" id="417" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/418.htm" id="418" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/419.htm" id="419" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/42.htm" id="42" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/420.htm" id="420" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/421.htm" id="421" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/422.htm" id="422" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/423.htm" id="423" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/424.htm" id="424" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/425.htm" id="425" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/426.htm" id="426" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/427.htm" id="427" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/428.htm" id="428" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/429.htm" id="429" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/43.htm" id="43" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/430.htm" id="430" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/431.htm" id="431" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/432.htm" id="432" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/433.htm" id="433" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/434.htm" id="434" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/435.htm" id="435" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/436.htm" id="436" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/437.htm" id="437" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/438.htm" id="438" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/439.htm" id="439" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/44.htm" id="44" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/440.htm" id="440" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/441.htm" id="441" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/442.htm" id="442" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/443.htm" id="443" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/444.htm" id="444" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/445.htm" id="445" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/446.htm" id="446" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/447.htm" id="447" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/448.htm" id="448" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/449.htm" id="449" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/45.htm" id="45" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/450.htm" id="450" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/451.htm" id="451" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/452.htm" id="452" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/453.htm" id="453" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/454.htm" id="454" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/455.htm" id="455" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/456.htm" id="456" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/457.htm" id="457" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/458.htm" id="458" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/459.htm" id="459" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/46.htm" id="46" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/460.htm" id="460" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/461.htm" id="461" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/462.htm" id="462" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/463.htm" id="463" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/464.htm" id="464" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/465.htm" id="465" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/466.htm" id="466" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/467.htm" id="467" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/468.htm" id="468" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/469.htm" id="469" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/47.htm" id="47" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/470.htm" id="470" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/471.htm" id="471" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/472.htm" id="472" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/473.htm" id="473" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/474.htm" id="474" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/475.htm" id="475" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/476.htm" id="476" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/477.htm" id="477" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/478.htm" id="478" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/479.htm" id="479" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/48.htm" id="48" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/480.htm" id="480" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/481.htm" id="481" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/482.htm" id="482" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/483.htm" id="483" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/484.htm" id="484" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/485.htm" id="485" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/486.htm" id="486" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/487.htm" id="487" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/488.htm" id="488" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/489.htm" id="489" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/49.htm" id="49" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/490.htm" id="490" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/491.htm" id="491" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/492.htm" id="492" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/493.htm" id="493" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/494.htm" id="494" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/495.htm" id="495" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/496.htm" id="496" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/497.htm" id="497" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/498.htm" id="498" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/499.htm" id="499" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/5.htm" id="5" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/50.htm" id="50" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/500.htm" id="500" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/501.htm" id="501" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/502.htm" id="502" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/503.htm" id="503" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/504.htm" id="504" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/505.htm" id="505" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/506.htm" id="506" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/507.htm" id="507" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/508.htm" id="508" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/509.htm" id="509" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/51.htm" id="51" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/510.htm" id="510" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/511.htm" id="511" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/512.htm" id="512" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/513.htm" id="513" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/514.htm" id="514" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/515.htm" id="515" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/516.htm" id="516" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/517.htm" id="517" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/518.htm" id="518" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/519.htm" id="519" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/52.htm" id="52" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/520.htm" id="520" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/521.htm" id="521" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/522.htm" id="522" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/523.htm" id="523" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/524.htm" id="524" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/525.htm" id="525" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/526.htm" id="526" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/527.htm" id="527" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/528.htm" id="528" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/529.htm" id="529" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/53.htm" id="53" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/530.htm" id="530" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/531.htm" id="531" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/532.htm" id="532" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/533.htm" id="533" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/534.htm" id="534" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/535.htm" id="535" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/536.htm" id="536" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/537.htm" id="537" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/538.htm" id="538" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/539.htm" id="539" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/54.htm" id="54" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/540.htm" id="540" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/541.htm" id="541" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/542.htm" id="542" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/543.htm" id="543" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/544.htm" id="544" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/545.htm" id="545" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/546.htm" id="546" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/547.htm" id="547" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/548.htm" id="548" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/549.htm" id="549" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/55.htm" id="55" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/550.htm" id="550" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/551.htm" id="551" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/552.htm" id="552" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/553.htm" id="553" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/554.htm" id="554" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/555.htm" id="555" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/556.htm" id="556" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/557.htm" id="557" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/558.htm" id="558" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/559.htm" id="559" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/56.htm" id="56" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/560.htm" id="560" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/561.htm" id="561" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/562.htm" id="562" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/563.htm" id="563" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/564.htm" id="564" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/565.htm" id="565" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/566.htm" id="566" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/567.htm" id="567" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/568.htm" id="568" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/569.htm" id="569" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/57.htm" id="57" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/570.htm" id="570" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/571.htm" id="571" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/572.htm" id="572" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/573.htm" id="573" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/574.htm" id="574" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/575.htm" id="575" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/576.htm" id="576" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/577.htm" id="577" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/578.htm" id="578" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/579.htm" id="579" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/58.htm" id="58" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/580.htm" id="580" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/581.htm" id="581" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/582.htm" id="582" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/583.htm" id="583" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/584.htm" id="584" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/585.htm" id="585" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/586.htm" id="586" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/587.htm" id="587" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/588.htm" id="588" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/589.htm" id="589" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/59.htm" id="59" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/590.htm" id="590" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/591.htm" id="591" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/592.htm" id="592" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/593.htm" id="593" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/594.htm" id="594" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/595.htm" id="595" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/596.htm" id="596" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/597.htm" id="597" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/598.htm" id="598" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/599.htm" id="599" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/6.htm" id="6" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/60.htm" id="60" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/600.htm" id="600" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/601.htm" id="601" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/602.htm" id="602" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/603.htm" id="603" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/604.htm" id="604" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/605.htm" id="605" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/606.htm" id="606" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/607.htm" id="607" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/608.htm" id="608" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/609.htm" id="609" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/61.htm" id="61" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/610.htm" id="610" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/611.htm" id="611" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/612.htm" id="612" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/613.htm" id="613" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/614.htm" id="614" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/615.htm" id="615" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/616.htm" id="616" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/617.htm" id="617" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/618.htm" id="618" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/619.htm" id="619" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/62.htm" id="62" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/620.htm" id="620" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/621.htm" id="621" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/622.htm" id="622" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/623.htm" id="623" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/624.htm" id="624" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/625.htm" id="625" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/626.htm" id="626" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/627.htm" id="627" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/628.htm" id="628" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/629.htm" id="629" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/63.htm" id="63" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/630.htm" id="630" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/631.htm" id="631" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/632.htm" id="632" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/633.htm" id="633" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/634.htm" id="634" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/635.htm" id="635" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/636.htm" id="636" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/637.htm" id="637" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/638.htm" id="638" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/639.htm" id="639" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/64.htm" id="64" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/640.htm" id="640" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/641.htm" id="641" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/642.htm" id="642" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/643.htm" id="643" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/644.htm" id="644" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/645.htm" id="645" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/646.htm" id="646" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/647.htm" id="647" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/648.htm" id="648" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/649.htm" id="649" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/65.htm" id="65" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/650.htm" id="650" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/651.htm" id="651" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/652.htm" id="652" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/653.htm" id="653" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/654.htm" id="654" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/655.htm" id="655" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/656.htm" id="656" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/657.htm" id="657" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/658.htm" id="658" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/659.htm" id="659" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/66.htm" id="66" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/660.htm" id="660" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/661.htm" id="661" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/662.htm" id="662" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/663.htm" id="663" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/664.htm" id="664" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/665.htm" id="665" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/666.htm" id="666" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/667.htm" id="667" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/668.htm" id="668" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/669.htm" id="669" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/67.htm" id="67" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/670.htm" id="670" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/671.htm" id="671" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/672.htm" id="672" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/673.htm" id="673" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/674.htm" id="674" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/675.htm" id="675" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/676.htm" id="676" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/677.htm" id="677" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/678.htm" id="678" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/679.htm" id="679" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/68.htm" id="68" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/680.htm" id="680" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/681.htm" id="681" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/682.htm" id="682" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/683.htm" id="683" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/684.htm" id="684" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/685.htm" id="685" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/686.htm" id="686" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/687.htm" id="687" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/688.htm" id="688" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/689.htm" id="689" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/69.htm" id="69" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/690.htm" id="690" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/691.htm" id="691" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/692.htm" id="692" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/693.htm" id="693" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/694.htm" id="694" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/695.htm" id="695" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/696.htm" id="696" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/697.htm" id="697" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/698.htm" id="698" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/699.htm" id="699" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/7.htm" id="7" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/70.htm" id="70" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/700.htm" id="700" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/701.htm" id="701" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/702.htm" id="702" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/703.htm" id="703" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/704.htm" id="704" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/705.htm" id="705" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/706.htm" id="706" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/707.htm" id="707" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/708.htm" id="708" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/709.htm" id="709" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/71.htm" id="71" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/710.htm" id="710" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/711.htm" id="711" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/712.htm" id="712" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/713.htm" id="713" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/714.htm" id="714" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/715.htm" id="715" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/716.htm" id="716" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/717.htm" id="717" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/718.htm" id="718" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/719.htm" id="719" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/72.htm" id="72" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/720.htm" id="720" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/721.htm" id="721" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/722.htm" id="722" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/723.htm" id="723" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/724.htm" id="724" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/725.htm" id="725" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/726.htm" id="726" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/727.htm" id="727" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/728.htm" id="728" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/729.htm" id="729" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/73.htm" id="73" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/730.htm" id="730" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/731.htm" id="731" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/732.htm" id="732" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/733.htm" id="733" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/734.htm" id="734" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/735.htm" id="735" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/736.htm" id="736" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/737.htm" id="737" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/738.htm" id="738" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/739.htm" id="739" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/74.htm" id="74" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/740.htm" id="740" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/741.htm" id="741" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/742.htm" id="742" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/743.htm" id="743" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/744.htm" id="744" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/745.htm" id="745" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/746.htm" id="746" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/747.htm" id="747" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/748.htm" id="748" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/749.htm" id="749" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/75.htm" id="75" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/750.htm" id="750" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/751.htm" id="751" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/752.htm" id="752" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/753.htm" id="753" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/754.htm" id="754" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/755.htm" id="755" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/756.htm" id="756" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/757.htm" id="757" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/758.htm" id="758" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/759.htm" id="759" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/76.htm" id="76" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/760.htm" id="760" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/761.htm" id="761" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/762.htm" id="762" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/763.htm" id="763" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/764.htm" id="764" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/765.htm" id="765" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/766.htm" id="766" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/767.htm" id="767" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/768.htm" id="768" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/769.htm" id="769" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/77.htm" id="77" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/770.htm" id="770" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/771.htm" id="771" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/772.htm" id="772" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/773.htm" id="773" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/774.htm" id="774" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/775.htm" id="775" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/776.htm" id="776" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/777.htm" id="777" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/778.htm" id="778" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/779.htm" id="779" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/78.htm" id="78" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/780.htm" id="780" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/781.htm" id="781" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/782.htm" id="782" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/783.htm" id="783" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/784.htm" id="784" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/785.htm" id="785" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/786.htm" id="786" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/787.htm" id="787" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/788.htm" id="788" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/789.htm" id="789" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/79.htm" id="79" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/790.htm" id="790" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/791.htm" id="791" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/792.htm" id="792" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/793.htm" id="793" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/794.htm" id="794" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/795.htm" id="795" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/796.htm" id="796" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/797.htm" id="797" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/798.htm" id="798" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/799.htm" id="799" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/8.htm" id="8" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/80.htm" id="80" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/800.htm" id="800" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/801.htm" id="801" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/802.htm" id="802" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/803.htm" id="803" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/804.htm" id="804" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/805.htm" id="805" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/806.htm" id="806" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/807.htm" id="807" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/808.htm" id="808" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/809.htm" id="809" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/81.htm" id="81" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/810.htm" id="810" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/811.htm" id="811" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/812.htm" id="812" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/813.htm" id="813" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/814.htm" id="814" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/815.htm" id="815" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/816.htm" id="816" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/817.htm" id="817" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/818.htm" id="818" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/819.htm" id="819" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/82.htm" id="82" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/820.htm" id="820" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/821.htm" id="821" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/822.htm" id="822" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/823.htm" id="823" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/824.htm" id="824" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/825.htm" id="825" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/826.htm" id="826" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/827.htm" id="827" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/828.htm" id="828" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/829.htm" id="829" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/83.htm" id="83" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/830.htm" id="830" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/831.htm" id="831" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/832.htm" id="832" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/833.htm" id="833" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/834.htm" id="834" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/835.htm" id="835" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/836.htm" id="836" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/837.htm" id="837" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/838.htm" id="838" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/839.htm" id="839" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/84.htm" id="84" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/840.htm" id="840" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/841.htm" id="841" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/842.htm" id="842" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/843.htm" id="843" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/844.htm" id="844" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/845.htm" id="845" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/846.htm" id="846" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/847.htm" id="847" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/848.htm" id="848" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/849.htm" id="849" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/85.htm" id="85" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/850.htm" id="850" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/851.htm" id="851" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/852.htm" id="852" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/853.htm" id="853" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/854.htm" id="854" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/855.htm" id="855" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/856.htm" id="856" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/857.htm" id="857" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/858.htm" id="858" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/859.htm" id="859" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/86.htm" id="86" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/860.htm" id="860" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/861.htm" id="861" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/862.htm" id="862" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/863.htm" id="863" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/864.htm" id="864" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/865.htm" id="865" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/866.htm" id="866" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/867.htm" id="867" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/868.htm" id="868" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/869.htm" id="869" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/87.htm" id="87" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/870.htm" id="870" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/871.htm" id="871" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/872.htm" id="872" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/873.htm" id="873" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/874.htm" id="874" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/875.htm" id="875" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/876.htm" id="876" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/877.htm" id="877" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/878.htm" id="878" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/879.htm" id="879" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/88.htm" id="88" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/880.htm" id="880" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/881.htm" id="881" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/882.htm" id="882" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/883.htm" id="883" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/884.htm" id="884" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/885.htm" id="885" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/886.htm" id="886" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/887.htm" id="887" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/888.htm" id="888" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/889.htm" id="889" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/89.htm" id="89" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/890.htm" id="890" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/891.htm" id="891" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/892.htm" id="892" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/893.htm" id="893" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/894.htm" id="894" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/895.htm" id="895" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/896.htm" id="896" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/897.htm" id="897" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/898.htm" id="898" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/899.htm" id="899" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/9.htm" id="9" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/90.htm" id="90" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/900.htm" id="900" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/901.htm" id="901" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/902.htm" id="902" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/903.htm" id="903" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/904.htm" id="904" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/905.htm" id="905" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/906.htm" id="906" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/907.htm" id="907" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/908.htm" id="908" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/909.htm" id="909" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/91.htm" id="91" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/910.htm" id="910" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/911.htm" id="911" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/912.htm" id="912" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/913.htm" id="913" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/914.htm" id="914" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/915.htm" id="915" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/916.htm" id="916" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/917.htm" id="917" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/918.htm" id="918" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/919.htm" id="919" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/92.htm" id="92" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/920.htm" id="920" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/921.htm" id="921" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/922.htm" id="922" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/923.htm" id="923" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/924.htm" id="924" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/925.htm" id="925" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/926.htm" id="926" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/927.htm" id="927" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/928.htm" id="928" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/929.htm" id="929" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/93.htm" id="93" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/930.htm" id="930" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/931.htm" id="931" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/932.htm" id="932" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/933.htm" id="933" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/934.htm" id="934" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/935.htm" id="935" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/936.htm" id="936" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/937.htm" id="937" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/938.htm" id="938" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/939.htm" id="939" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/94.htm" id="94" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/940.htm" id="940" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/941.htm" id="941" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/942.htm" id="942" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/943.htm" id="943" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/944.htm" id="944" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/945.htm" id="945" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/946.htm" id="946" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/947.htm" id="947" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/948.htm" id="948" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/949.htm" id="949" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/95.htm" id="95" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/950.htm" id="950" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/951.htm" id="951" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/952.htm" id="952" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/953.htm" id="953" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/954.htm" id="954" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/955.htm" id="955" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/956.htm" id="956" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/957.htm" id="957" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/958.htm" id="958" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/959.htm" id="959" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/96.htm" id="96" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/960.htm" id="960" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/961.htm" id="961" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/962.htm" id="962" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/963.htm" id="963" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/964.htm" id="964" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/965.htm" id="965" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/966.htm" id="966" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/967.htm" id="967" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/968.htm" id="968" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/969.htm" id="969" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/97.htm" id="97" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/970.htm" id="970" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/971.htm" id="971" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/972.htm" id="972" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/973.htm" id="973" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/974.htm" id="974" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/975.htm" id="975" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/976.htm" id="976" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/977.htm" id="977" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/978.htm" id="978" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/979.htm" id="979" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/98.htm" id="98" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/980.htm" id="980" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/981.htm" id="981" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/982.htm" id="982" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/983.htm" id="983" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/984.htm" id="984" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/985.htm" id="985" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/986.htm" id="986" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/987.htm" id="987" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/988.htm" id="988" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/989.htm" id="989" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/99.htm" id="99" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/990.htm" id="990" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/991.htm" id="991" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/992.htm" id="992" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/993.htm" id="993" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/994.htm" id="994" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/995.htm" id="995" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/996.htm" id="996" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/997.htm" id="997" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/998.htm" id="998" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/999.htm" id="999" media-type="application/xhtml+xml"/>
+    <item href="kjv/OEBPS/Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="0"/>
+    <itemref idref="1"/>
+    <itemref idref="2"/>
+    <itemref idref="3"/>
+    <itemref idref="4"/>
+    <itemref idref="5"/>
+    <itemref idref="6"/>
+    <itemref idref="7"/>
+    <itemref idref="8"/>
+    <itemref idref="9"/>
+    <itemref idref="10"/>
+    <itemref idref="11"/>
+    <itemref idref="12"/>
+    <itemref idref="13"/>
+    <itemref idref="14"/>
+    <itemref idref="15"/>
+    <itemref idref="16"/>
+    <itemref idref="17"/>
+    <itemref idref="18"/>
+    <itemref idref="19"/>
+    <itemref idref="20"/>
+    <itemref idref="21"/>
+    <itemref idref="22"/>
+    <itemref idref="23"/>
+    <itemref idref="24"/>
+    <itemref idref="25"/>
+    <itemref idref="26"/>
+    <itemref idref="27"/>
+    <itemref idref="28"/>
+    <itemref idref="29"/>
+    <itemref idref="30"/>
+    <itemref idref="31"/>
+    <itemref idref="32"/>
+    <itemref idref="33"/>
+    <itemref idref="34"/>
+    <itemref idref="35"/>
+    <itemref idref="36"/>
+    <itemref idref="37"/>
+    <itemref idref="38"/>
+    <itemref idref="39"/>
+    <itemref idref="40"/>
+    <itemref idref="41"/>
+    <itemref idref="42"/>
+    <itemref idref="43"/>
+    <itemref idref="44"/>
+    <itemref idref="45"/>
+    <itemref idref="46"/>
+    <itemref idref="47"/>
+    <itemref idref="48"/>
+    <itemref idref="49"/>
+    <itemref idref="50"/>
+    <itemref idref="51"/>
+    <itemref idref="52"/>
+    <itemref idref="53"/>
+    <itemref idref="54"/>
+    <itemref idref="55"/>
+    <itemref idref="56"/>
+    <itemref idref="57"/>
+    <itemref idref="58"/>
+    <itemref idref="59"/>
+    <itemref idref="60"/>
+    <itemref idref="61"/>
+    <itemref idref="62"/>
+    <itemref idref="63"/>
+    <itemref idref="64"/>
+    <itemref idref="65"/>
+    <itemref idref="66"/>
+    <itemref idref="67"/>
+    <itemref idref="68"/>
+    <itemref idref="69"/>
+    <itemref idref="70"/>
+    <itemref idref="71"/>
+    <itemref idref="72"/>
+    <itemref idref="73"/>
+    <itemref idref="74"/>
+    <itemref idref="75"/>
+    <itemref idref="76"/>
+    <itemref idref="77"/>
+    <itemref idref="78"/>
+    <itemref idref="79"/>
+    <itemref idref="80"/>
+    <itemref idref="81"/>
+    <itemref idref="82"/>
+    <itemref idref="83"/>
+    <itemref idref="84"/>
+    <itemref idref="85"/>
+    <itemref idref="86"/>
+    <itemref idref="87"/>
+    <itemref idref="88"/>
+    <itemref idref="89"/>
+    <itemref idref="90"/>
+    <itemref idref="91"/>
+    <itemref idref="92"/>
+    <itemref idref="93"/>
+    <itemref idref="94"/>
+    <itemref idref="95"/>
+    <itemref idref="96"/>
+    <itemref idref="97"/>
+    <itemref idref="98"/>
+    <itemref idref="99"/>
+    <itemref idref="100"/>
+    <itemref idref="101"/>
+    <itemref idref="102"/>
+    <itemref idref="103"/>
+    <itemref idref="104"/>
+    <itemref idref="105"/>
+    <itemref idref="106"/>
+    <itemref idref="107"/>
+    <itemref idref="108"/>
+    <itemref idref="109"/>
+    <itemref idref="110"/>
+    <itemref idref="111"/>
+    <itemref idref="112"/>
+    <itemref idref="113"/>
+    <itemref idref="114"/>
+    <itemref idref="115"/>
+    <itemref idref="116"/>
+    <itemref idref="117"/>
+    <itemref idref="118"/>
+    <itemref idref="119"/>
+    <itemref idref="120"/>
+    <itemref idref="121"/>
+    <itemref idref="122"/>
+    <itemref idref="123"/>
+    <itemref idref="124"/>
+    <itemref idref="125"/>
+    <itemref idref="126"/>
+    <itemref idref="127"/>
+    <itemref idref="128"/>
+    <itemref idref="129"/>
+    <itemref idref="130"/>
+    <itemref idref="131"/>
+    <itemref idref="132"/>
+    <itemref idref="133"/>
+    <itemref idref="134"/>
+    <itemref idref="135"/>
+    <itemref idref="136"/>
+    <itemref idref="137"/>
+    <itemref idref="138"/>
+    <itemref idref="139"/>
+    <itemref idref="140"/>
+    <itemref idref="141"/>
+    <itemref idref="142"/>
+    <itemref idref="143"/>
+    <itemref idref="144"/>
+    <itemref idref="145"/>
+    <itemref idref="146"/>
+    <itemref idref="147"/>
+    <itemref idref="148"/>
+    <itemref idref="149"/>
+    <itemref idref="150"/>
+    <itemref idref="151"/>
+    <itemref idref="152"/>
+    <itemref idref="153"/>
+    <itemref idref="154"/>
+    <itemref idref="155"/>
+    <itemref idref="156"/>
+    <itemref idref="157"/>
+    <itemref idref="158"/>
+    <itemref idref="159"/>
+    <itemref idref="160"/>
+    <itemref idref="161"/>
+    <itemref idref="162"/>
+    <itemref idref="163"/>
+    <itemref idref="164"/>
+    <itemref idref="165"/>
+    <itemref idref="166"/>
+    <itemref idref="167"/>
+    <itemref idref="168"/>
+    <itemref idref="169"/>
+    <itemref idref="170"/>
+    <itemref idref="171"/>
+    <itemref idref="172"/>
+    <itemref idref="173"/>
+    <itemref idref="174"/>
+    <itemref idref="175"/>
+    <itemref idref="176"/>
+    <itemref idref="177"/>
+    <itemref idref="178"/>
+    <itemref idref="179"/>
+    <itemref idref="180"/>
+    <itemref idref="181"/>
+    <itemref idref="182"/>
+    <itemref idref="183"/>
+    <itemref idref="184"/>
+    <itemref idref="185"/>
+    <itemref idref="186"/>
+    <itemref idref="187"/>
+    <itemref idref="188"/>
+    <itemref idref="189"/>
+    <itemref idref="190"/>
+    <itemref idref="191"/>
+    <itemref idref="192"/>
+    <itemref idref="193"/>
+    <itemref idref="194"/>
+    <itemref idref="195"/>
+    <itemref idref="196"/>
+    <itemref idref="197"/>
+    <itemref idref="198"/>
+    <itemref idref="199"/>
+    <itemref idref="200"/>
+    <itemref idref="201"/>
+    <itemref idref="202"/>
+    <itemref idref="203"/>
+    <itemref idref="204"/>
+    <itemref idref="205"/>
+    <itemref idref="206"/>
+    <itemref idref="207"/>
+    <itemref idref="208"/>
+    <itemref idref="209"/>
+    <itemref idref="210"/>
+    <itemref idref="211"/>
+    <itemref idref="212"/>
+    <itemref idref="213"/>
+    <itemref idref="214"/>
+    <itemref idref="215"/>
+    <itemref idref="216"/>
+    <itemref idref="217"/>
+    <itemref idref="218"/>
+    <itemref idref="219"/>
+    <itemref idref="220"/>
+    <itemref idref="221"/>
+    <itemref idref="222"/>
+    <itemref idref="223"/>
+    <itemref idref="224"/>
+    <itemref idref="225"/>
+    <itemref idref="226"/>
+    <itemref idref="227"/>
+    <itemref idref="228"/>
+    <itemref idref="229"/>
+    <itemref idref="230"/>
+    <itemref idref="231"/>
+    <itemref idref="232"/>
+    <itemref idref="233"/>
+    <itemref idref="234"/>
+    <itemref idref="235"/>
+    <itemref idref="236"/>
+    <itemref idref="237"/>
+    <itemref idref="238"/>
+    <itemref idref="239"/>
+    <itemref idref="240"/>
+    <itemref idref="241"/>
+    <itemref idref="242"/>
+    <itemref idref="243"/>
+    <itemref idref="244"/>
+    <itemref idref="245"/>
+    <itemref idref="246"/>
+    <itemref idref="247"/>
+    <itemref idref="248"/>
+    <itemref idref="249"/>
+    <itemref idref="250"/>
+    <itemref idref="251"/>
+    <itemref idref="252"/>
+    <itemref idref="253"/>
+    <itemref idref="254"/>
+    <itemref idref="255"/>
+    <itemref idref="256"/>
+    <itemref idref="257"/>
+    <itemref idref="258"/>
+    <itemref idref="259"/>
+    <itemref idref="260"/>
+    <itemref idref="261"/>
+    <itemref idref="262"/>
+    <itemref idref="263"/>
+    <itemref idref="264"/>
+    <itemref idref="265"/>
+    <itemref idref="266"/>
+    <itemref idref="267"/>
+    <itemref idref="268"/>
+    <itemref idref="269"/>
+    <itemref idref="270"/>
+    <itemref idref="271"/>
+    <itemref idref="272"/>
+    <itemref idref="273"/>
+    <itemref idref="274"/>
+    <itemref idref="275"/>
+    <itemref idref="276"/>
+    <itemref idref="277"/>
+    <itemref idref="278"/>
+    <itemref idref="279"/>
+    <itemref idref="280"/>
+    <itemref idref="281"/>
+    <itemref idref="282"/>
+    <itemref idref="283"/>
+    <itemref idref="284"/>
+    <itemref idref="285"/>
+    <itemref idref="286"/>
+    <itemref idref="287"/>
+    <itemref idref="288"/>
+    <itemref idref="289"/>
+    <itemref idref="290"/>
+    <itemref idref="291"/>
+    <itemref idref="292"/>
+    <itemref idref="293"/>
+    <itemref idref="294"/>
+    <itemref idref="295"/>
+    <itemref idref="296"/>
+    <itemref idref="297"/>
+    <itemref idref="298"/>
+    <itemref idref="299"/>
+    <itemref idref="300"/>
+    <itemref idref="301"/>
+    <itemref idref="302"/>
+    <itemref idref="303"/>
+    <itemref idref="304"/>
+    <itemref idref="305"/>
+    <itemref idref="306"/>
+    <itemref idref="307"/>
+    <itemref idref="308"/>
+    <itemref idref="309"/>
+    <itemref idref="310"/>
+    <itemref idref="311"/>
+    <itemref idref="312"/>
+    <itemref idref="313"/>
+    <itemref idref="314"/>
+    <itemref idref="315"/>
+    <itemref idref="316"/>
+    <itemref idref="317"/>
+    <itemref idref="318"/>
+    <itemref idref="319"/>
+    <itemref idref="320"/>
+    <itemref idref="321"/>
+    <itemref idref="322"/>
+    <itemref idref="323"/>
+    <itemref idref="324"/>
+    <itemref idref="325"/>
+    <itemref idref="326"/>
+    <itemref idref="327"/>
+    <itemref idref="328"/>
+    <itemref idref="329"/>
+    <itemref idref="330"/>
+    <itemref idref="331"/>
+    <itemref idref="332"/>
+    <itemref idref="333"/>
+    <itemref idref="334"/>
+    <itemref idref="335"/>
+    <itemref idref="336"/>
+    <itemref idref="337"/>
+    <itemref idref="338"/>
+    <itemref idref="339"/>
+    <itemref idref="340"/>
+    <itemref idref="341"/>
+    <itemref idref="342"/>
+    <itemref idref="343"/>
+    <itemref idref="344"/>
+    <itemref idref="345"/>
+    <itemref idref="346"/>
+    <itemref idref="347"/>
+    <itemref idref="348"/>
+    <itemref idref="349"/>
+    <itemref idref="350"/>
+    <itemref idref="351"/>
+    <itemref idref="352"/>
+    <itemref idref="353"/>
+    <itemref idref="354"/>
+    <itemref idref="355"/>
+    <itemref idref="356"/>
+    <itemref idref="357"/>
+    <itemref idref="358"/>
+    <itemref idref="359"/>
+    <itemref idref="360"/>
+    <itemref idref="361"/>
+    <itemref idref="362"/>
+    <itemref idref="363"/>
+    <itemref idref="364"/>
+    <itemref idref="365"/>
+    <itemref idref="366"/>
+    <itemref idref="367"/>
+    <itemref idref="368"/>
+    <itemref idref="369"/>
+    <itemref idref="370"/>
+    <itemref idref="371"/>
+    <itemref idref="372"/>
+    <itemref idref="373"/>
+    <itemref idref="374"/>
+    <itemref idref="375"/>
+    <itemref idref="376"/>
+    <itemref idref="377"/>
+    <itemref idref="378"/>
+    <itemref idref="379"/>
+    <itemref idref="380"/>
+    <itemref idref="381"/>
+    <itemref idref="382"/>
+    <itemref idref="383"/>
+    <itemref idref="384"/>
+    <itemref idref="385"/>
+    <itemref idref="386"/>
+    <itemref idref="387"/>
+    <itemref idref="388"/>
+    <itemref idref="389"/>
+    <itemref idref="390"/>
+    <itemref idref="391"/>
+    <itemref idref="392"/>
+    <itemref idref="393"/>
+    <itemref idref="394"/>
+    <itemref idref="395"/>
+    <itemref idref="396"/>
+    <itemref idref="397"/>
+    <itemref idref="398"/>
+    <itemref idref="399"/>
+    <itemref idref="400"/>
+    <itemref idref="401"/>
+    <itemref idref="402"/>
+    <itemref idref="403"/>
+    <itemref idref="404"/>
+    <itemref idref="405"/>
+    <itemref idref="406"/>
+    <itemref idref="407"/>
+    <itemref idref="408"/>
+    <itemref idref="409"/>
+    <itemref idref="410"/>
+    <itemref idref="411"/>
+    <itemref idref="412"/>
+    <itemref idref="413"/>
+    <itemref idref="414"/>
+    <itemref idref="415"/>
+    <itemref idref="416"/>
+    <itemref idref="417"/>
+    <itemref idref="418"/>
+    <itemref idref="419"/>
+    <itemref idref="420"/>
+    <itemref idref="421"/>
+    <itemref idref="422"/>
+    <itemref idref="423"/>
+    <itemref idref="424"/>
+    <itemref idref="425"/>
+    <itemref idref="426"/>
+    <itemref idref="427"/>
+    <itemref idref="428"/>
+    <itemref idref="429"/>
+    <itemref idref="430"/>
+    <itemref idref="431"/>
+    <itemref idref="432"/>
+    <itemref idref="433"/>
+    <itemref idref="434"/>
+    <itemref idref="435"/>
+    <itemref idref="436"/>
+    <itemref idref="437"/>
+    <itemref idref="438"/>
+    <itemref idref="439"/>
+    <itemref idref="440"/>
+    <itemref idref="441"/>
+    <itemref idref="442"/>
+    <itemref idref="443"/>
+    <itemref idref="444"/>
+    <itemref idref="445"/>
+    <itemref idref="446"/>
+    <itemref idref="447"/>
+    <itemref idref="448"/>
+    <itemref idref="449"/>
+    <itemref idref="450"/>
+    <itemref idref="451"/>
+    <itemref idref="452"/>
+    <itemref idref="453"/>
+    <itemref idref="454"/>
+    <itemref idref="455"/>
+    <itemref idref="456"/>
+    <itemref idref="457"/>
+    <itemref idref="458"/>
+    <itemref idref="459"/>
+    <itemref idref="460"/>
+    <itemref idref="461"/>
+    <itemref idref="462"/>
+    <itemref idref="463"/>
+    <itemref idref="464"/>
+    <itemref idref="465"/>
+    <itemref idref="466"/>
+    <itemref idref="467"/>
+    <itemref idref="468"/>
+    <itemref idref="469"/>
+    <itemref idref="470"/>
+    <itemref idref="471"/>
+    <itemref idref="472"/>
+    <itemref idref="473"/>
+    <itemref idref="474"/>
+    <itemref idref="475"/>
+    <itemref idref="476"/>
+    <itemref idref="477"/>
+    <itemref idref="478"/>
+    <itemref idref="479"/>
+    <itemref idref="480"/>
+    <itemref idref="481"/>
+    <itemref idref="482"/>
+    <itemref idref="483"/>
+    <itemref idref="484"/>
+    <itemref idref="485"/>
+    <itemref idref="486"/>
+    <itemref idref="487"/>
+    <itemref idref="488"/>
+    <itemref idref="489"/>
+    <itemref idref="490"/>
+    <itemref idref="491"/>
+    <itemref idref="492"/>
+    <itemref idref="493"/>
+    <itemref idref="494"/>
+    <itemref idref="495"/>
+    <itemref idref="496"/>
+    <itemref idref="497"/>
+    <itemref idref="498"/>
+    <itemref idref="499"/>
+    <itemref idref="500"/>
+    <itemref idref="501"/>
+    <itemref idref="502"/>
+    <itemref idref="503"/>
+    <itemref idref="504"/>
+    <itemref idref="505"/>
+    <itemref idref="506"/>
+    <itemref idref="507"/>
+    <itemref idref="508"/>
+    <itemref idref="509"/>
+    <itemref idref="510"/>
+    <itemref idref="511"/>
+    <itemref idref="512"/>
+    <itemref idref="513"/>
+    <itemref idref="514"/>
+    <itemref idref="515"/>
+    <itemref idref="516"/>
+    <itemref idref="517"/>
+    <itemref idref="518"/>
+    <itemref idref="519"/>
+    <itemref idref="520"/>
+    <itemref idref="521"/>
+    <itemref idref="522"/>
+    <itemref idref="523"/>
+    <itemref idref="524"/>
+    <itemref idref="525"/>
+    <itemref idref="526"/>
+    <itemref idref="527"/>
+    <itemref idref="528"/>
+    <itemref idref="529"/>
+    <itemref idref="530"/>
+    <itemref idref="531"/>
+    <itemref idref="532"/>
+    <itemref idref="533"/>
+    <itemref idref="534"/>
+    <itemref idref="535"/>
+    <itemref idref="536"/>
+    <itemref idref="537"/>
+    <itemref idref="538"/>
+    <itemref idref="539"/>
+    <itemref idref="540"/>
+    <itemref idref="541"/>
+    <itemref idref="542"/>
+    <itemref idref="543"/>
+    <itemref idref="544"/>
+    <itemref idref="545"/>
+    <itemref idref="546"/>
+    <itemref idref="547"/>
+    <itemref idref="548"/>
+    <itemref idref="549"/>
+    <itemref idref="550"/>
+    <itemref idref="551"/>
+    <itemref idref="552"/>
+    <itemref idref="553"/>
+    <itemref idref="554"/>
+    <itemref idref="555"/>
+    <itemref idref="556"/>
+    <itemref idref="557"/>
+    <itemref idref="558"/>
+    <itemref idref="559"/>
+    <itemref idref="560"/>
+    <itemref idref="561"/>
+    <itemref idref="562"/>
+    <itemref idref="563"/>
+    <itemref idref="564"/>
+    <itemref idref="565"/>
+    <itemref idref="566"/>
+    <itemref idref="567"/>
+    <itemref idref="568"/>
+    <itemref idref="569"/>
+    <itemref idref="570"/>
+    <itemref idref="571"/>
+    <itemref idref="572"/>
+    <itemref idref="573"/>
+    <itemref idref="574"/>
+    <itemref idref="575"/>
+    <itemref idref="576"/>
+    <itemref idref="577"/>
+    <itemref idref="578"/>
+    <itemref idref="579"/>
+    <itemref idref="580"/>
+    <itemref idref="581"/>
+    <itemref idref="582"/>
+    <itemref idref="583"/>
+    <itemref idref="584"/>
+    <itemref idref="585"/>
+    <itemref idref="586"/>
+    <itemref idref="587"/>
+    <itemref idref="588"/>
+    <itemref idref="589"/>
+    <itemref idref="590"/>
+    <itemref idref="591"/>
+    <itemref idref="592"/>
+    <itemref idref="593"/>
+    <itemref idref="594"/>
+    <itemref idref="595"/>
+    <itemref idref="596"/>
+    <itemref idref="597"/>
+    <itemref idref="598"/>
+    <itemref idref="599"/>
+    <itemref idref="600"/>
+    <itemref idref="601"/>
+    <itemref idref="602"/>
+    <itemref idref="603"/>
+    <itemref idref="604"/>
+    <itemref idref="605"/>
+    <itemref idref="606"/>
+    <itemref idref="607"/>
+    <itemref idref="608"/>
+    <itemref idref="609"/>
+    <itemref idref="610"/>
+    <itemref idref="611"/>
+    <itemref idref="612"/>
+    <itemref idref="613"/>
+    <itemref idref="614"/>
+    <itemref idref="615"/>
+    <itemref idref="616"/>
+    <itemref idref="617"/>
+    <itemref idref="618"/>
+    <itemref idref="619"/>
+    <itemref idref="620"/>
+    <itemref idref="621"/>
+    <itemref idref="622"/>
+    <itemref idref="623"/>
+    <itemref idref="624"/>
+    <itemref idref="625"/>
+    <itemref idref="626"/>
+    <itemref idref="627"/>
+    <itemref idref="628"/>
+    <itemref idref="629"/>
+    <itemref idref="630"/>
+    <itemref idref="631"/>
+    <itemref idref="632"/>
+    <itemref idref="633"/>
+    <itemref idref="634"/>
+    <itemref idref="635"/>
+    <itemref idref="636"/>
+    <itemref idref="637"/>
+    <itemref idref="638"/>
+    <itemref idref="639"/>
+    <itemref idref="640"/>
+    <itemref idref="641"/>
+    <itemref idref="642"/>
+    <itemref idref="643"/>
+    <itemref idref="644"/>
+    <itemref idref="645"/>
+    <itemref idref="646"/>
+    <itemref idref="647"/>
+    <itemref idref="648"/>
+    <itemref idref="649"/>
+    <itemref idref="650"/>
+    <itemref idref="651"/>
+    <itemref idref="652"/>
+    <itemref idref="653"/>
+    <itemref idref="654"/>
+    <itemref idref="655"/>
+    <itemref idref="656"/>
+    <itemref idref="657"/>
+    <itemref idref="658"/>
+    <itemref idref="659"/>
+    <itemref idref="660"/>
+    <itemref idref="661"/>
+    <itemref idref="662"/>
+    <itemref idref="663"/>
+    <itemref idref="664"/>
+    <itemref idref="665"/>
+    <itemref idref="666"/>
+    <itemref idref="667"/>
+    <itemref idref="668"/>
+    <itemref idref="669"/>
+    <itemref idref="670"/>
+    <itemref idref="671"/>
+    <itemref idref="672"/>
+    <itemref idref="673"/>
+    <itemref idref="674"/>
+    <itemref idref="675"/>
+    <itemref idref="676"/>
+    <itemref idref="677"/>
+    <itemref idref="678"/>
+    <itemref idref="679"/>
+    <itemref idref="680"/>
+    <itemref idref="681"/>
+    <itemref idref="682"/>
+    <itemref idref="683"/>
+    <itemref idref="684"/>
+    <itemref idref="685"/>
+    <itemref idref="686"/>
+    <itemref idref="687"/>
+    <itemref idref="688"/>
+    <itemref idref="689"/>
+    <itemref idref="690"/>
+    <itemref idref="691"/>
+    <itemref idref="692"/>
+    <itemref idref="693"/>
+    <itemref idref="694"/>
+    <itemref idref="695"/>
+    <itemref idref="696"/>
+    <itemref idref="697"/>
+    <itemref idref="698"/>
+    <itemref idref="699"/>
+    <itemref idref="700"/>
+    <itemref idref="701"/>
+    <itemref idref="702"/>
+    <itemref idref="703"/>
+    <itemref idref="704"/>
+    <itemref idref="705"/>
+    <itemref idref="706"/>
+    <itemref idref="707"/>
+    <itemref idref="708"/>
+    <itemref idref="709"/>
+    <itemref idref="710"/>
+    <itemref idref="711"/>
+    <itemref idref="712"/>
+    <itemref idref="713"/>
+    <itemref idref="714"/>
+    <itemref idref="715"/>
+    <itemref idref="716"/>
+    <itemref idref="717"/>
+    <itemref idref="718"/>
+    <itemref idref="719"/>
+    <itemref idref="720"/>
+    <itemref idref="721"/>
+    <itemref idref="722"/>
+    <itemref idref="723"/>
+    <itemref idref="724"/>
+    <itemref idref="725"/>
+    <itemref idref="726"/>
+    <itemref idref="727"/>
+    <itemref idref="728"/>
+    <itemref idref="729"/>
+    <itemref idref="730"/>
+    <itemref idref="731"/>
+    <itemref idref="732"/>
+    <itemref idref="733"/>
+    <itemref idref="734"/>
+    <itemref idref="735"/>
+    <itemref idref="736"/>
+    <itemref idref="737"/>
+    <itemref idref="738"/>
+    <itemref idref="739"/>
+    <itemref idref="740"/>
+    <itemref idref="741"/>
+    <itemref idref="742"/>
+    <itemref idref="743"/>
+    <itemref idref="744"/>
+    <itemref idref="745"/>
+    <itemref idref="746"/>
+    <itemref idref="747"/>
+    <itemref idref="748"/>
+    <itemref idref="749"/>
+    <itemref idref="750"/>
+    <itemref idref="751"/>
+    <itemref idref="752"/>
+    <itemref idref="753"/>
+    <itemref idref="754"/>
+    <itemref idref="755"/>
+    <itemref idref="756"/>
+    <itemref idref="757"/>
+    <itemref idref="758"/>
+    <itemref idref="759"/>
+    <itemref idref="760"/>
+    <itemref idref="761"/>
+    <itemref idref="762"/>
+    <itemref idref="763"/>
+    <itemref idref="764"/>
+    <itemref idref="765"/>
+    <itemref idref="766"/>
+    <itemref idref="767"/>
+    <itemref idref="768"/>
+    <itemref idref="769"/>
+    <itemref idref="770"/>
+    <itemref idref="771"/>
+    <itemref idref="772"/>
+    <itemref idref="773"/>
+    <itemref idref="774"/>
+    <itemref idref="775"/>
+    <itemref idref="776"/>
+    <itemref idref="777"/>
+    <itemref idref="778"/>
+    <itemref idref="779"/>
+    <itemref idref="780"/>
+    <itemref idref="781"/>
+    <itemref idref="782"/>
+    <itemref idref="783"/>
+    <itemref idref="784"/>
+    <itemref idref="785"/>
+    <itemref idref="786"/>
+    <itemref idref="787"/>
+    <itemref idref="788"/>
+    <itemref idref="789"/>
+    <itemref idref="790"/>
+    <itemref idref="791"/>
+    <itemref idref="792"/>
+    <itemref idref="793"/>
+    <itemref idref="794"/>
+    <itemref idref="795"/>
+    <itemref idref="796"/>
+    <itemref idref="797"/>
+    <itemref idref="798"/>
+    <itemref idref="799"/>
+    <itemref idref="800"/>
+    <itemref idref="801"/>
+    <itemref idref="802"/>
+    <itemref idref="803"/>
+    <itemref idref="804"/>
+    <itemref idref="805"/>
+    <itemref idref="806"/>
+    <itemref idref="807"/>
+    <itemref idref="808"/>
+    <itemref idref="809"/>
+    <itemref idref="810"/>
+    <itemref idref="811"/>
+    <itemref idref="812"/>
+    <itemref idref="813"/>
+    <itemref idref="814"/>
+    <itemref idref="815"/>
+    <itemref idref="816"/>
+    <itemref idref="817"/>
+    <itemref idref="818"/>
+    <itemref idref="819"/>
+    <itemref idref="820"/>
+    <itemref idref="821"/>
+    <itemref idref="822"/>
+    <itemref idref="823"/>
+    <itemref idref="824"/>
+    <itemref idref="825"/>
+    <itemref idref="826"/>
+    <itemref idref="827"/>
+    <itemref idref="828"/>
+    <itemref idref="829"/>
+    <itemref idref="830"/>
+    <itemref idref="831"/>
+    <itemref idref="832"/>
+    <itemref idref="833"/>
+    <itemref idref="834"/>
+    <itemref idref="835"/>
+    <itemref idref="836"/>
+    <itemref idref="837"/>
+    <itemref idref="838"/>
+    <itemref idref="839"/>
+    <itemref idref="840"/>
+    <itemref idref="841"/>
+    <itemref idref="842"/>
+    <itemref idref="843"/>
+    <itemref idref="844"/>
+    <itemref idref="845"/>
+    <itemref idref="846"/>
+    <itemref idref="847"/>
+    <itemref idref="848"/>
+    <itemref idref="849"/>
+    <itemref idref="850"/>
+    <itemref idref="851"/>
+    <itemref idref="852"/>
+    <itemref idref="853"/>
+    <itemref idref="854"/>
+    <itemref idref="855"/>
+    <itemref idref="856"/>
+    <itemref idref="857"/>
+    <itemref idref="858"/>
+    <itemref idref="859"/>
+    <itemref idref="860"/>
+    <itemref idref="861"/>
+    <itemref idref="862"/>
+    <itemref idref="863"/>
+    <itemref idref="864"/>
+    <itemref idref="865"/>
+    <itemref idref="866"/>
+    <itemref idref="867"/>
+    <itemref idref="868"/>
+    <itemref idref="869"/>
+    <itemref idref="870"/>
+    <itemref idref="871"/>
+    <itemref idref="872"/>
+    <itemref idref="873"/>
+    <itemref idref="874"/>
+    <itemref idref="875"/>
+    <itemref idref="876"/>
+    <itemref idref="877"/>
+    <itemref idref="878"/>
+    <itemref idref="879"/>
+    <itemref idref="880"/>
+    <itemref idref="881"/>
+    <itemref idref="882"/>
+    <itemref idref="883"/>
+    <itemref idref="884"/>
+    <itemref idref="885"/>
+    <itemref idref="886"/>
+    <itemref idref="887"/>
+    <itemref idref="888"/>
+    <itemref idref="889"/>
+    <itemref idref="890"/>
+    <itemref idref="891"/>
+    <itemref idref="892"/>
+    <itemref idref="893"/>
+    <itemref idref="894"/>
+    <itemref idref="895"/>
+    <itemref idref="896"/>
+    <itemref idref="897"/>
+    <itemref idref="898"/>
+    <itemref idref="899"/>
+    <itemref idref="900"/>
+    <itemref idref="901"/>
+    <itemref idref="902"/>
+    <itemref idref="903"/>
+    <itemref idref="904"/>
+    <itemref idref="905"/>
+    <itemref idref="906"/>
+    <itemref idref="907"/>
+    <itemref idref="908"/>
+    <itemref idref="909"/>
+    <itemref idref="910"/>
+    <itemref idref="911"/>
+    <itemref idref="912"/>
+    <itemref idref="913"/>
+    <itemref idref="914"/>
+    <itemref idref="915"/>
+    <itemref idref="916"/>
+    <itemref idref="917"/>
+    <itemref idref="918"/>
+    <itemref idref="919"/>
+    <itemref idref="920"/>
+    <itemref idref="921"/>
+    <itemref idref="922"/>
+    <itemref idref="923"/>
+    <itemref idref="924"/>
+    <itemref idref="925"/>
+    <itemref idref="926"/>
+    <itemref idref="927"/>
+    <itemref idref="928"/>
+    <itemref idref="929"/>
+    <itemref idref="930"/>
+    <itemref idref="931"/>
+    <itemref idref="932"/>
+    <itemref idref="933"/>
+    <itemref idref="934"/>
+    <itemref idref="935"/>
+    <itemref idref="936"/>
+    <itemref idref="937"/>
+    <itemref idref="938"/>
+    <itemref idref="939"/>
+    <itemref idref="940"/>
+    <itemref idref="941"/>
+    <itemref idref="942"/>
+    <itemref idref="943"/>
+    <itemref idref="944"/>
+    <itemref idref="945"/>
+    <itemref idref="946"/>
+    <itemref idref="947"/>
+    <itemref idref="948"/>
+    <itemref idref="949"/>
+    <itemref idref="950"/>
+    <itemref idref="951"/>
+    <itemref idref="952"/>
+    <itemref idref="953"/>
+    <itemref idref="954"/>
+    <itemref idref="955"/>
+    <itemref idref="956"/>
+    <itemref idref="957"/>
+    <itemref idref="958"/>
+    <itemref idref="959"/>
+    <itemref idref="960"/>
+    <itemref idref="961"/>
+    <itemref idref="962"/>
+    <itemref idref="963"/>
+    <itemref idref="964"/>
+    <itemref idref="965"/>
+    <itemref idref="966"/>
+    <itemref idref="967"/>
+    <itemref idref="968"/>
+    <itemref idref="969"/>
+    <itemref idref="970"/>
+    <itemref idref="971"/>
+    <itemref idref="972"/>
+    <itemref idref="973"/>
+    <itemref idref="974"/>
+    <itemref idref="975"/>
+    <itemref idref="976"/>
+    <itemref idref="977"/>
+    <itemref idref="978"/>
+    <itemref idref="979"/>
+    <itemref idref="980"/>
+    <itemref idref="981"/>
+    <itemref idref="982"/>
+    <itemref idref="983"/>
+    <itemref idref="984"/>
+    <itemref idref="985"/>
+    <itemref idref="986"/>
+    <itemref idref="987"/>
+    <itemref idref="988"/>
+    <itemref idref="989"/>
+    <itemref idref="990"/>
+    <itemref idref="991"/>
+    <itemref idref="992"/>
+    <itemref idref="993"/>
+    <itemref idref="994"/>
+    <itemref idref="995"/>
+    <itemref idref="996"/>
+    <itemref idref="997"/>
+    <itemref idref="998"/>
+    <itemref idref="999"/>
+    <itemref idref="1000"/>
+    <itemref idref="1001"/>
+    <itemref idref="1002"/>
+    <itemref idref="1003"/>
+    <itemref idref="1004"/>
+    <itemref idref="1005"/>
+    <itemref idref="1006"/>
+    <itemref idref="1007"/>
+    <itemref idref="1008"/>
+    <itemref idref="1009"/>
+    <itemref idref="1010"/>
+    <itemref idref="1011"/>
+    <itemref idref="1012"/>
+    <itemref idref="1013"/>
+    <itemref idref="1014"/>
+    <itemref idref="1015"/>
+    <itemref idref="1016"/>
+    <itemref idref="1017"/>
+    <itemref idref="1018"/>
+    <itemref idref="1019"/>
+    <itemref idref="1020"/>
+    <itemref idref="1021"/>
+    <itemref idref="1022"/>
+    <itemref idref="1023"/>
+    <itemref idref="1024"/>
+    <itemref idref="1025"/>
+    <itemref idref="1026"/>
+    <itemref idref="1027"/>
+    <itemref idref="1028"/>
+    <itemref idref="1029"/>
+    <itemref idref="1030"/>
+    <itemref idref="1031"/>
+    <itemref idref="1032"/>
+    <itemref idref="1033"/>
+    <itemref idref="1034"/>
+    <itemref idref="1035"/>
+    <itemref idref="1036"/>
+    <itemref idref="1037"/>
+    <itemref idref="1038"/>
+    <itemref idref="1039"/>
+    <itemref idref="1040"/>
+    <itemref idref="1041"/>
+    <itemref idref="1042"/>
+    <itemref idref="1043"/>
+    <itemref idref="1044"/>
+    <itemref idref="1045"/>
+    <itemref idref="1046"/>
+    <itemref idref="1047"/>
+    <itemref idref="1048"/>
+    <itemref idref="1049"/>
+    <itemref idref="1050"/>
+    <itemref idref="1051"/>
+    <itemref idref="1052"/>
+    <itemref idref="1053"/>
+    <itemref idref="1054"/>
+    <itemref idref="1055"/>
+    <itemref idref="1056"/>
+    <itemref idref="1057"/>
+    <itemref idref="1058"/>
+    <itemref idref="1059"/>
+    <itemref idref="1060"/>
+    <itemref idref="1061"/>
+    <itemref idref="1062"/>
+    <itemref idref="1063"/>
+    <itemref idref="1064"/>
+    <itemref idref="1065"/>
+    <itemref idref="1066"/>
+    <itemref idref="1067"/>
+    <itemref idref="1068"/>
+    <itemref idref="1069"/>
+    <itemref idref="1070"/>
+    <itemref idref="1071"/>
+    <itemref idref="1072"/>
+    <itemref idref="1073"/>
+    <itemref idref="1074"/>
+    <itemref idref="1075"/>
+    <itemref idref="1076"/>
+    <itemref idref="1077"/>
+    <itemref idref="1078"/>
+    <itemref idref="1079"/>
+    <itemref idref="1080"/>
+    <itemref idref="1081"/>
+    <itemref idref="1082"/>
+    <itemref idref="1083"/>
+    <itemref idref="1084"/>
+    <itemref idref="1085"/>
+    <itemref idref="1086"/>
+    <itemref idref="1087"/>
+    <itemref idref="1088"/>
+    <itemref idref="1089"/>
+    <itemref idref="1090"/>
+    <itemref idref="1091"/>
+    <itemref idref="1092"/>
+    <itemref idref="1093"/>
+    <itemref idref="1094"/>
+    <itemref idref="1095"/>
+    <itemref idref="1096"/>
+    <itemref idref="1097"/>
+    <itemref idref="1098"/>
+    <itemref idref="1099"/>
+    <itemref idref="1100"/>
+    <itemref idref="1101"/>
+    <itemref idref="1102"/>
+    <itemref idref="1103"/>
+    <itemref idref="1104"/>
+    <itemref idref="1105"/>
+    <itemref idref="1106"/>
+    <itemref idref="1107"/>
+    <itemref idref="1108"/>
+    <itemref idref="1109"/>
+    <itemref idref="1110"/>
+    <itemref idref="1111"/>
+    <itemref idref="1112"/>
+    <itemref idref="1113"/>
+    <itemref idref="1114"/>
+    <itemref idref="1115"/>
+    <itemref idref="1116"/>
+    <itemref idref="1117"/>
+    <itemref idref="1118"/>
+    <itemref idref="1119"/>
+    <itemref idref="1120"/>
+    <itemref idref="1121"/>
+    <itemref idref="1122"/>
+    <itemref idref="1123"/>
+    <itemref idref="1124"/>
+    <itemref idref="1125"/>
+    <itemref idref="1126"/>
+    <itemref idref="1127"/>
+    <itemref idref="1128"/>
+    <itemref idref="1129"/>
+    <itemref idref="1130"/>
+    <itemref idref="1131"/>
+    <itemref idref="1132"/>
+    <itemref idref="1133"/>
+    <itemref idref="1134"/>
+    <itemref idref="1135"/>
+    <itemref idref="1136"/>
+    <itemref idref="1137"/>
+    <itemref idref="1138"/>
+    <itemref idref="1139"/>
+    <itemref idref="1140"/>
+    <itemref idref="1141"/>
+    <itemref idref="1142"/>
+    <itemref idref="1143"/>
+    <itemref idref="1144"/>
+    <itemref idref="1145"/>
+    <itemref idref="1146"/>
+    <itemref idref="1147"/>
+    <itemref idref="1148"/>
+    <itemref idref="1149"/>
+    <itemref idref="1150"/>
+    <itemref idref="1151"/>
+    <itemref idref="1152"/>
+    <itemref idref="1153"/>
+    <itemref idref="1154"/>
+    <itemref idref="1155"/>
+    <itemref idref="1156"/>
+    <itemref idref="1157"/>
+    <itemref idref="1158"/>
+    <itemref idref="1159"/>
+    <itemref idref="1160"/>
+    <itemref idref="1161"/>
+    <itemref idref="1162"/>
+    <itemref idref="1163"/>
+    <itemref idref="1164"/>
+    <itemref idref="1165"/>
+    <itemref idref="1166"/>
+    <itemref idref="1167"/>
+    <itemref idref="1168"/>
+    <itemref idref="1169"/>
+    <itemref idref="1170"/>
+    <itemref idref="1171"/>
+    <itemref idref="1172"/>
+    <itemref idref="1173"/>
+    <itemref idref="1174"/>
+    <itemref idref="1175"/>
+    <itemref idref="1176"/>
+    <itemref idref="1177"/>
+    <itemref idref="1178"/>
+    <itemref idref="1179"/>
+    <itemref idref="1180"/>
+    <itemref idref="1181"/>
+    <itemref idref="1182"/>
+    <itemref idref="1183"/>
+    <itemref idref="1184"/>
+    <itemref idref="1185"/>
+    <itemref idref="1186"/>
+    <itemref idref="1187"/>
+    <itemref idref="1188"/>
+    <itemref idref="1189"/>
+  </spine>
+  <guide>
+    <reference href="kjv/OEBPS/Text/cover.xhtml" title="Cover" type="cover"/>
+    <reference href="kjv/OEBPS/Text/cover.xhtml" title="Title Page" type="other.titlepage"/>
+  </guide>
+</package>
